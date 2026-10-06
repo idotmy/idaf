@@ -238,7 +238,7 @@ function MarketplaceApp({
                 <Linkedin className="w-3.5 h-3.5" />
               </a>
               <a
-                href="https://github.com/idotmy/"
+                href="https://github.com/idotmy/idaf"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Github"
